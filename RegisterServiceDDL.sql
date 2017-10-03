@@ -36,9 +36,3 @@ INSERT INTO product VALUES (
      , current_timestamp
 );
 
-CREATE TABLE Employee (
-	recordId int not null,
-	fName varchar(15),
-	lName varcahr(15),
-	primary key(recordId)
-	);
